@@ -6,6 +6,7 @@
   "private": true,
   "src": "src",
   "test": "test",
+  "scripts": {"start":"grunt serve"},
   "dist": "dist",
   "heroku-postbuild": "webpack -p --config ./webpack.prod.config.js --progress",
   "engines": {
