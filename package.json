@@ -7,9 +7,6 @@
   "src": "src",
   "test": "test",
   "dist": "dist",
-  "scripts": {
-    "start": "grunt serve"
-  },
   "engines": {
     "npm": "6.4.1",
     "node": "8.12.0"
